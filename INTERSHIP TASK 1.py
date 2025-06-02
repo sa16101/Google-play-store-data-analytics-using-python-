@@ -483,7 +483,7 @@ if 18 <= now.hour < 21:
         ))
 
     fig.update_layout(
-        title="📈 Monthly Install Trends by Category (Shaded: >20% Growth)",
+        title=" Monthly Install Trends by Category (Shaded: >20% Growth)",
         xaxis_title='Month',
         yaxis_title='Total Installs',
         height=600,
